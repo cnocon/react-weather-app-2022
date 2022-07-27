@@ -1,0 +1,15 @@
+{
+  "name": "react-weather-app",
+  "version": "1.0.0",
+  "description": "View weather forecasts in a React + Redux application.",
+  "main": "./index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Cristin O'Connor",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1"
+  }
+}
